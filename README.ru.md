@@ -4,7 +4,7 @@
 
 **Детская Android-игра · Релиз в июне 2026 года**
 
-Самостоятельно разработанная мобильная игра с тремя мини-играми: «Бабочки и пчёлы», «Собери яблоки» и «Весёлый забег». Основной акцент — простое управление и яркая графика для маленьких детей.
+Самостоятельно разработанная мобильная игра с тремя мини-играми: «Бабочки и пчёлы», «Отличный урожай» и «Весёлый забег». Основной акцент — простое управление и яркая графика для маленьких детей.
 
 ## Технологии
 
@@ -20,7 +20,16 @@ Kotlin 2.2.10, Jetpack Compose, Material 3, Android Studio, Gradle 9.4.1, Androi
 
 ## Скриншоты
 
-Доступны на [странице приложения в RuStore](https://www.rustore.ru/catalog/app/com.example.mygarden).
+<p align="center">
+  <img src="docs/screenshots/Screenshot_main.jpg" alt="Главное меню" width="31%" />
+  <img src="docs/screenshots/Screenshot_game_butterfly.png" alt="Бабочки и пчёлы" width="31%" />
+  <img src="docs/screenshots/Screenshot_game_apples.jpg" alt="Отличный урожай" width="31%" />
+</p>
+<p align="center">
+  <img src="docs/screenshots/Screenshot_game_run.png" alt="Весёлый забег" width="95%" />
+</p>
+
+Главное меню и три мини-игры. Скриншоты приложения.
 
 ## Авторство и лицензии
 
