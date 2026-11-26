@@ -27,7 +27,16 @@ On Windows, a debug build can be requested with `gradlew.bat assembleDebug` afte
 
 ## Screenshots
 
-See the [published game listing on RuStore](https://www.rustore.ru/catalog/app/com.example.mygarden) for screenshots.
+<p align="center">
+  <img src="docs/screenshots/Screenshot_main.jpg" alt="Main menu" width="31%" />
+  <img src="docs/screenshots/Screenshot_game_butterfly.png" alt="Butterflies and Bees" width="31%" />
+  <img src="docs/screenshots/Screenshot_game_apples.jpg" alt="Apple Harvest" width="31%" />
+</p>
+<p align="center">
+  <img src="docs/screenshots/Screenshot_game_run.png" alt="Fun Run" width="95%" />
+</p>
+
+Main menu and all three mini-games. Actual application screenshots.
 
 ## Assets and rights
 
